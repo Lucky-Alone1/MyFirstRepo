@@ -1,0 +1,1 @@
+So far, I have learned how to clone a GitHub repository to my local machine, create new files, and use basic Git commands to manage changes.
